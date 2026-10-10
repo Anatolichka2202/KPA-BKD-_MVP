@@ -1,0 +1,9 @@
+# Local Qt/CMake build output
+build/
+build-*/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+*.user
+*.user.*
+.qtc_clangd/
